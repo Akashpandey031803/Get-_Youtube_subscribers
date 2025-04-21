@@ -56,7 +56,7 @@ git clone https://github.com/ankit-devhub/youtube-subscribers-backend.git
 - Open any browser and type in address bar> localhost:3000/docs
 
 ## **Deployment**
-https://youtube-subscribers-backend-amber.vercel.app/
+https://vercel.com/akashpandey031803s-projects/get-youtube-subscribers-kfny/CA6CJNeGhzKa783Jf36uMw7vztfa
 
 
 ## **How to Contribute**
