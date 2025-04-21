@@ -45,7 +45,7 @@ Youtube subscribers backend Api to get the subscribers using specific routes end
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-git clone https://github.com/ankit-devhub/youtube-subscribers-backend.git
+https://github.com/Akashpandey031803/Get-_Youtube_subscribers.git
 ```
 - Open your favorite code editor and run locally!
 ```bash
