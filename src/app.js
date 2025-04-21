@@ -8,7 +8,7 @@ const staticPath = path.join(__dirname,"../public")
 app.use("/docs",express.static(staticPath))
 
 app.get("/", (req,res)=>{
-    res.json("Hello, This project is made by Ankit");
+    res.json("Hello, This project is made by Akash Pandey");
 });
 
 // sending GET request to get subscribers list 
